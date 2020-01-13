@@ -2,6 +2,10 @@ prova
 
 MODIFICATO TUTTO IN LOCALE
 HO AGGIUNTO UNA RIGA ONLINE.
+<<<<<<< HEAD
 
 
 questa modifica è locale
+=======
+tutto on line
+>>>>>>> d4acc89e88d13287288344a038539aa50b43aca8
